@@ -56,5 +56,5 @@ With the explosion of social media, particularly platforms like Twitter, real-ti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/airline-sentiment-analysis.git
+git clone [https://github.com/yourusername/airline-sentiment-analysis](https://github.com/srk9904/Twitter-US-Airline-Sentiment.git]
 cd airline-sentiment-analysis
